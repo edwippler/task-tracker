@@ -22,6 +22,7 @@ Header.propTypes = {
     title: PropTypes.string.isRequired
 }
 
+// CSS in JavaScript
 // const headingStyle = {
 //     color: 'red',
 //     backgroundColor: 'black'
